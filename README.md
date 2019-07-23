@@ -7,3 +7,6 @@
 1. 增加loader包：css-loader,style-loader,sass-loader,node-sass,file-loader，分别处理css/sass文件和图片文件
 2. npm scripts里设置指令watch，注意webpack --watch和webpack-dev-server的区别，webpack-dev-server可以热加载和模块热替换
 3. 配置文件里加入rules相关配置
+
+### demo3
+使用webpack-dev-middle实现热替换
